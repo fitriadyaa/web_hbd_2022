@@ -14,7 +14,7 @@ Here are the methods to set it up for yourself.
 
 - Netlify Deploy
 
-  [![Deploy with NEtlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/AnshumanMahato/Happy-Birthday-Card)
+  [![Deploy with NEtlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/fitriadyaa/web_hbd_2022)
 
 Remote deployment will require you to specify some mandatory Evironment Variables,
 
