@@ -1,7 +1,7 @@
 [build]
   base = "./"
   publish = "./dist/"
-  command = "CI= npm run build"
+  command = "npm run build"
 
 [template.environment]
   NAME = "enter Name of the receiver"
